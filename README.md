@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jackshengxinz
 - 🏫 I'm currently study at UIUC
 - 👀 I’m interested in Data analysis, Machine Learning 
-- 🌱 I’m currently learning Deep Learning and data structure
+- 🌱 I’m currently learning Deep Learning and Data Structure
 - 💞️ I’m looking to collaborate on DL
 - 📫 How to reach me ...
 
